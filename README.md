@@ -1,6 +1,8 @@
 # Mano-Computer
 Description: This program simulates the instructions of Mano’s Computer
+
 Package: manoComputer
+
 Classes: Divided into three classes:- Descriptions.java, Instructions.java, and Mano_Computer.java
 
 Description.java:
