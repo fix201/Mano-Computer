@@ -12,5 +12,5 @@ This class first creates a random function that creates random values to fill th
 Mano_Computer.java:
 This class is the contains main and that shows the output.
 
-Sample Output:
-http://i.imgur.com/7D4ew0I.png
+<img src='http://i.imgur.com/7D4ew0I.png' title='Video Walkthrough' width='' alt='Sample Output' />
+
